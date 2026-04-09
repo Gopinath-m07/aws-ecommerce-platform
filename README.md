@@ -38,6 +38,9 @@ Smart Nenotech (Client: Jude)
 User → CloudFront → Elastic Beanstalk → EC2 → RDS
 Static Files → Stored in S3
 Monitoring → CloudWatch
+<p align="center">
+  <img src="Architecture/architecture.png" width="50%">
+</p>
 
 ---
 
